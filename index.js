@@ -13,10 +13,3 @@ function switchOn(){
     document.getElementById("offButton").style.backgroundColor = "#e12d39"
     document.getElementById("onButton").style.backgroundColor = "#cbd2d9"
 }
-
-
-let a = 900.5
-let b = 9.02
-
-console.log(typeof(a));
-console.log(typeof(b));
